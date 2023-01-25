@@ -1,0 +1,19 @@
+{
+  "name": "git_tutorial_network",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyamaneeJanthama/git_tutorial_network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyamaneeJanthama/git_tutorial_network/issues"
+  },
+  "homepage": "https://github.com/AnyamaneeJanthama/git_tutorial_network#readme"
+}
